@@ -19,7 +19,7 @@ if [ "${GIT_NOEDIT}" ] ; then
 	GIT_OPTS="${GIT_OPTS} --no-edit"
 fi
 
-config="omap2plus_defconfig"
+config="defconfig"
 
 #linaro_toolchain="arm9_gcc_4_7"
 #linaro_toolchain="cortex_gcc_4_6"
